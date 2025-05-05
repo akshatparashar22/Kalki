@@ -6,7 +6,7 @@
 
 ---
 > 📜 For the **project vision**, see the [Manifesto](./manifesto.md).  
-> 📘 For definitions and key concepts, refer to the [Glossary](./glossary.md).
+> 📘 For definitions and key concepts, refer to the [Glossary](./GLOSSARY.md).
 ---
 
 ## Features
